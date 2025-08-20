@@ -1,2 +1,7 @@
 # Cyberlab-Yessia
-Ce projet consiste à la mise en place d'un lab cyber avec deux machines virtuelles avec un pare-feu Pfsense.
+# Projet : Lab de cybersécurité avec pfSense
+- Configuré un lab VirtualBox avec pfSense (firewall/router), Kali Linux (LAN, 10.0.0.0/24), et Ubuntu (DMZ, 172.16.0.0/24).
+- Configuré WAN (pont) pour accès internet, NAT/DHCP pour LAN/DMZ.
+- Résolu problème "no route to host" via configuration passerelle/DNS.
+- Testé connectivité (ping 8.8.8.8, google.com), inter-réseaux (Nmap), et règles firewall (blocage port 80).
+- Validé avec serveur Apache sur Ubuntu.
