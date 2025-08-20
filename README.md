@@ -9,7 +9,7 @@
 - Scanné la machine Ubuntu avec Nmap pour récupérer la clé ssh et tenter une connection avec Putty depuis ma machine hôte.
 
 ## Preuves
-- [Dashboard Pfsense]: pfsense_dashboard.png
+- Dashboard Pfsense: 
 - [Connectivité entre réseaux]:
 - [Règles firewall LAN et DMZ sur Pfsense]:
 - [Règles NAT sur Pfsense]:
