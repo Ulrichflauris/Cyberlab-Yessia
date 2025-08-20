@@ -15,4 +15,4 @@
 - [Règles firewall DMZ sur Pfsense](rules_DMZ_pfsense.png)
 - [Règles NAT sur Pfsense](nat_pfsense.png)
 - [Scan Nmap de la machine Ubuntu avec récupération de la clé SSH](scan_nmap_ubuntu.png)
-- [Connexion en SSH à Ubuntu via Putty sur Windows(machine hôte)]()
+- [Connexion en SSH à Ubuntu via Putty sur Windows(machine hôte)](putty_ubuntu.png)
