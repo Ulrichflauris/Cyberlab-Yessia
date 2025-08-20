@@ -10,7 +10,7 @@
 
 ## Preuves
 - [Dashboard Pfsense](pfsense_dashboard.png)
-- [Connectivité entre réseaux]()
+- [Connectivité entre réseaux](ping_ubuntu.png)
 - [Règles firewall LAN et DMZ sur Pfsense]()
 - [Règles NAT sur Pfsense]()
 - [Scan Nmap de la machine Ubuntu avec récupération de la clé SSH]()
