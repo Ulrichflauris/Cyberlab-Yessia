@@ -14,5 +14,5 @@
 - [Règles firewall LAN sur Pfsense](rules_LAN_pfsense.png)
 - [Règles firewall DMZ sur Pfsense](rules_DMZ_pfsense.png)
 - [Règles NAT sur Pfsense](nat_pfsense.png)
-- [Scan Nmap de la machine Ubuntu avec récupération de la clé SSH]()
+- [Scan Nmap de la machine Ubuntu avec récupération de la clé SSH](scan_nmap_ubuntu.png)
 - [Connexion en SSH à Ubuntu via Putty sur Windows(machine hôte)]()
