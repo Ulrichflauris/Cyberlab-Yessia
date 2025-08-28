@@ -20,4 +20,4 @@
 - [Règles NAT sur Pfsense](nat_pfsense.png)
 - [Scan Nmap de la machine Ubuntu avec récupération de la clé SSH](scan_nmap_ubuntu.png)
 - [Connexion en SSH à Ubuntu via Putty sur Windows(machine hôte)](putty_ubuntu.png)
-- [Security Events de Wazuh]()
+- [Security Events de Wazuh](wazuh.png)
